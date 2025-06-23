@@ -10,4 +10,4 @@ command = "cargo install -q worker-build && worker-build --release"
 build = { command = "cargo install -q worker-build && worker-build --dev" }
 
 [vars]
-UUID = "2e33b06d-b99c-4940-be12-ad28c00ea34d"
+UUID = "6b1634fa-0ce6-4207-8df3-fb8d0707f2b0"
